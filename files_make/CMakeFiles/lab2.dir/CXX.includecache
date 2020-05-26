@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/trush/lab2/lab2_shuruk.cpp
+stdlib.h
+-
+stdio.h
+-
+string
+-
+getopt.h
+/home/trush/lab2/getopt.h
+
